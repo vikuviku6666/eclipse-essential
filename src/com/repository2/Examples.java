@@ -4,8 +4,8 @@ public class Examples {
 
 	// TODO Auto-generated method stub
 	public static void main(String[] args) {
-		String a = "Vinay";
-		System.out.println(a);
+		String name = "Vinay";
+		System.out.println(name);
 
 	}
 
